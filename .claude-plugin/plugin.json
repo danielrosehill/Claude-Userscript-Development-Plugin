@@ -1,0 +1,12 @@
+{
+  "name": "userscript-development",
+  "version": "1.0.0",
+  "description": "Develop, test, and publish Tampermonkey/Greasemonkey userscripts — scaffolding, in-browser validation via Claude in Chrome, README generation, and version bumping.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Claude-Userscript-Development-Plugin",
+  "license": "MIT",
+  "keywords": ["userscript", "tampermonkey", "greasemonkey", "browser", "automation", "web"]
+}
