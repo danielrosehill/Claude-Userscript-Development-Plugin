@@ -1,6 +1,6 @@
 {
   "name": "userscript-development",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Develop, test, and publish Tampermonkey/Greasemonkey userscripts — scaffolding, in-browser validation via Claude in Chrome, README generation, and version bumping.",
   "author": {
     "name": "Daniel Rosehill",

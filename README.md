@@ -5,6 +5,7 @@ Develop, test, and publish Tampermonkey (and Greasemonkey-compatible) userscript
 ## Skills
 
 - `onboard` — optional one-time setup. Records the user's userscript repos base directory so other skills can default new scripts there.
+- `new-userscript-repo` — bootstrap a new per-script workspace: ask public/private, create the GitHub repo, install this plugin at project scope, end task.
 - `new-userscript` — scaffold a new `.user.js` with a complete `==UserScript==` metadata block.
 - `test-userscript` — validate behavior live in a real Chrome tab via the Claude in Chrome MCP.
 - `publish-userscript` — push to GitHub and wire `@updateURL` / `@downloadURL` so Tampermonkey can install from the raw URL.
