@@ -15,7 +15,7 @@ Authoritative reference: https://www.tampermonkey.net/documentation.php?locale=e
 
 ## Method
 
-1. Use `mcp__jungle-shared__fetch-and-convert__fetch_markdown` (or `WebFetch` as fallback) on:
+1. Use `mcp__gateway__fetch-and-convert__fetch_markdown` (or `WebFetch` as fallback) on:
    ```
    https://www.tampermonkey.net/documentation.php?locale=en
    ```
